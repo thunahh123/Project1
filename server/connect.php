@@ -1,4 +1,5 @@
 <?php
+//This is a bridge
     try { 
         $dbh = new PDO("mysql:host=localhost;dbname=sa00832893", 
             "root", ""); 
